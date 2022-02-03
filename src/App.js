@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bis2Bis webpage - Teste
+          React webpage custom Dockerized - For testing purpose.
         </p>
 
         Lucas Fernando Vilarino
