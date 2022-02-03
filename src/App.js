@@ -10,7 +10,7 @@ function App() {
           React webpage custom Dockerized - For testing purpose.
         </p>
 
-        Lucas Fernando Vilarino
+        Lucas Fernando Vilarino®
       </header>
     </div>
   );
